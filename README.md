@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 21 anos e sou natural de Goiânia. No momento, estou cursando Engenharia de Software na UnB. Sou apaixonada por tecnologia e desenvolvimento full-stack. Atualmente, estou realizando estágio em uma empresa de tecnologia, onde tenho a oportunidade de aprimorar minhas habilidades e contribuir para projetos emocionantes.
+Me chamo Ana Carolina Fialho, tenho 21 anos e sou natural de Goiânia. No momento, estou cursando Engenharia de Software na UnB. Sou apaixonada por tecnologia e desenvolvimento full-stack. Atualmente, estou realizando estágio em uma empresa de tecnologia, onde tenho a oportunidade de aprimorar minhas habilidades e contribuir para projetos emocionantes.
 
 👩🏻‍💻 Atualmente, estou me dedicando também ao desenvolvimento de competências em gerência de projetos, buscando aprimorar minha organização, planejamento e liderança de equipes para garantir entregas mais eficientes e de qualidade.
 
