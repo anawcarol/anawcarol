@@ -2,11 +2,17 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Carolina Fialho, tenho 21 anos e sou natural de Goiânia. No momento, estou cursando Engenharia de Software na UnB. Sou apaixonada por tecnologia e desenvolvimento full-stack. Atualmente, estou realizando estágio em uma empresa de tecnologia, onde tenho a oportunidade de aprimorar minhas habilidades e contribuir para projetos emocionantes.
+Tenho 21 anos, sou natural de Goiânia e atualmente curso Engenharia de Software na Universidade de Brasília (UnB). Sou apaixonada por tecnologia, desenvolvimento full-stack e criação de soluções que unam qualidade técnica, experiência do usuário e impacto real.
 
-👩🏻‍💻 Atualmente, estou me dedicando também ao desenvolvimento de competências em gerência de projetos, buscando aprimorar minha organização, planejamento e liderança de equipes para garantir entregas mais eficientes e de qualidade.
+Atualmente, atuo em projetos de tecnologia e desenvolvimento de software, com foco em aplicações web, análise de sistemas e organização de demandas. Também venho aprofundando meus conhecimentos em gerência de projetos, buscando aprimorar habilidades de organização, planejamento, comunicação e liderança para construção de produtos mais eficientes e escaláveis.
 
-🌐 Tenho conhecimento em desenvolvimento back-end com Python, C++ e Node.js, o que me permite compreender melhor o ecossistema completo de desenvolvimento de software. Além disso, no front-end venho utilizando ferramentas como React, HTML, CSS, JavaScript e TypeScript para criar interfaces intuitivas e elegantes.
+Tenho experiência no desenvolvimento back-end utilizando Python, Node.js, NestJS e C++, além de atuação no front-end com React, Next.js, JavaScript e TypeScript, desenvolvendo interfaces modernas, responsivas e centradas no usuário.
+
+Também possuo experiência com Figma para prototipação e construção de interfaces, além de interesse em arquitetura de software, experiência do usuário e desenvolvimento de produtos digitais.
+
+Outro tema que faz parte da minha trajetória é a programação competitiva, área na qual desenvolvo raciocínio lógico, resolução de problemas e otimização de algoritmos.
+
+Atualmente, sigo expandindo meus conhecimentos em engenharia de software, metodologias ágeis, desenvolvimento full-stack e gestão de projetos.
 
 
 ### 🤖 Linguagens e Tecnologias
