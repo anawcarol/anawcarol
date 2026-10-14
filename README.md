@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Tenho 21 anos, sou natural de Goiânia e atualmente curso Engenharia de Software na Universidade de Brasília (UnB). Sou apaixonada por tecnologia, desenvolvimento full-stack e criação de soluções que unam qualidade técnica, experiência do usuário e impacto real.
+Tenho 22 anos, sou natural de Goiânia e atualmente curso Engenharia de Software na Universidade de Brasília (UnB). Sou apaixonada por tecnologia, desenvolvimento full-stack e criação de soluções que unam qualidade técnica, experiência do usuário e impacto real.
 
 Atualmente, atuo em projetos de tecnologia e desenvolvimento de software, com foco em aplicações web, análise de sistemas e organização de demandas. Também venho aprofundando meus conhecimentos em gerência de projetos, buscando aprimorar habilidades de organização, planejamento, comunicação e liderança para construção de produtos mais eficientes e escaláveis.
 
